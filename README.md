@@ -1,16 +1,52 @@
-<<<<<<< HEAD
-# React + Vite
+# 🚀 Rex Maina Wanyeki - Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio — a modern, fully responsive React-based web application showcasing my technical skills, projects, and passion as a **multilingual developer** and **computer scientist**.
 
-Currently, two official plugins are available:
+![Screenshot](./public/preview.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔥 Features
 
-## Expanding the ESLint configuration
+- ✨ Animated Hero Section
+- 📱 Fully Responsive Design
+- 🌐 React + Vite
+- 🎨 Custom CSS Styling
+- 💬 Contact Form powered by [FormSubmit](https://formsubmit.co/)
+- 🧠 Organized Skill Sections (Programming, Web, Mobile, Data, Tools, Academic)
+- 💼 CV Download & Social Links
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# portfolio
->>>>>>> 21185d71c23c86465e6c52965515486dcc7d3882
+---
+
+## 📸 Preview
+
+Live Demo → [rexmaina.netlify.app](https://rexmaina.netlify.app) _(Add your actual domain if hosted)_
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech           | Usage                          |
+|----------------|--------------------------------|
+| React          | Frontend framework             |
+| Vite           | Blazing fast dev server        |
+| Custom CSS     | Styling & responsiveness       |
+| FormSubmit     | Contact form backend           |
+| React Icons    | Beautiful developer icons      |
+
+---
+
+## 🧑‍💻 Author
+
+**Rex Maina Wanyeki**  
+📧 [rexwanyeki@gmail.com](mailto:rexwanyeki@gmail.com)  
+📞 +254 792 615 071  
+🌍 [LinkedIn](https://www.linkedin.com/in/rex-maina-7b7474158/) | [GitHub](https://github.com/RexMaina)
+
+---
+
+## 💡 Contributing
+
+Want to suggest a change, add a feature or fix a bug?  
+Feel free to fork, clone and make a pull request 🙌
+
+```bash
+git clone https://github.com/RexMaina/portfolio.git
