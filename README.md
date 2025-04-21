@@ -18,7 +18,7 @@ Welcome to my personal portfolio — a modern, fully responsive React-based web 
 
 ## 📸 Preview
 
-Live Demo → [rexmaina.netlify.app](https://rexmaina.netlify.app) _(Add your actual domain if hosted)_
+Live Demo → [rexmaina.netlify.app](https://phenomenal-treacle-dfff2e.netlify.app/) 
 
 ---
 
