@@ -34,15 +34,6 @@ Live Demo → [rexmaina.netlify.app](https://phenomenal-treacle-dfff2e.netlify.a
 
 ---
 
-## 🧑‍💻 Author
-
-**Rex Maina Wanyeki**  
-📧 [rexwanyeki@gmail.com](mailto:rexwanyeki@gmail.com)  
-📞 +254 792 615 071  
-🌍 [LinkedIn](https://www.linkedin.com/in/rex-maina-7b7474158/) | [GitHub](https://github.com/RexMaina)
-
----
-
 ## 💡 Contributing
 
 Want to suggest a change, add a feature or fix a bug?  
@@ -50,3 +41,15 @@ Feel free to fork, clone and make a pull request 🙌
 
 ```bash
 git clone https://github.com/RexMaina/portfolio.git
+```
+## 🧑‍💻 Author
+
+<div align="center">
+  <a href="mailto:rexwanyeki@gmail.com">📧 Email</a> | 
+  <a href="https://linkedin.com/in/rex-maina-7b7474158">🌐 LinkedIn</a> | 
+  <a href="tel:+254792615071">📞 +254 792 615 071</a>
+</div>
+
+<div align="center">
+  <sub>Built with ♥ by Rex Maina Wanyeki</sub>
+</div>
